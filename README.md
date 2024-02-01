@@ -1,3 +1,3 @@
 # PythonAssignment
 
-![Python code eg](img/echo_py output.png)
+![Python code eg](img/Graph Output.png)
